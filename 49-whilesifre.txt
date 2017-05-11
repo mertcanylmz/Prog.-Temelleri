@@ -12,11 +12,11 @@ namespace ConsoleApplication31
             string sifre = "";
             while (sifre != "1234")
             {
-                Console.Write("Þifre giriniz : ");
+                Console.Write("ÅŸifre giriniz : ");
                 sifre=Console.ReadLine();
             }
 
-            Console.Write("Programa hoþ geldiniz...");
+            Console.Write("Programa hoÅŸgeldiniz...");
             Console.ReadKey();
         }
     }
